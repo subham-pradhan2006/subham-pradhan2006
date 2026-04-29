@@ -17,7 +17,6 @@
 ---
 
 ### 🛠️ My Tech Stack
-### 🛠️ Tech Stack
 
 #### 🌐 Frontend
 <div align="left">
